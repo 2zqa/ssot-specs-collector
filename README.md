@@ -10,7 +10,8 @@ Collects information about hardware and sends it to a central server
 ### Prerequisites
 
 - Go (tested with 1.19)
-- systemd-detect-virt
+- systemd-detect-virt\
+- [ssot-specs-server](https://github.com/2zqa/ssot-specs-server)
 
 ### Setup
 
