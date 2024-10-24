@@ -1,0 +1,9 @@
+/debug
+/dist/
+/ssot-specs-collector
+/.vscode/
+__debug_bin
+/.go/
+
+*.swp
+*.swo
